@@ -1,0 +1,161 @@
+current directory: c:/notWork/github.io/shurupyan.github.io/vendor/bundle/gems/wdm-0.1.1/ext/wdm
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180928-18724-1m3ak7e.rb extconf.rb
+checking for -lkernel32... yes
+checking for windows.h... yes
+checking for ruby.h... yes
+checking for HAVE_RUBY_ENCODING_H... yes
+checking for rb_thread_call_without_gvl()... yes
+creating Makefile
+
+current directory: c:/notWork/github.io/shurupyan.github.io/vendor/bundle/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR=" clean
+
+current directory: c:/notWork/github.io/shurupyan.github.io/vendor/bundle/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR="
+generating wdm_ext-x64-mingw32.def
+compiling entry.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from entry.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from entry.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+compiling memory.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from memory.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from memory.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+compiling monitor.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from monitor.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from monitor.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+compiling queue.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from queue.c:3:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from queue.c:3:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+compiling rb_change.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from rb_change.c:4:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from rb_change.c:4:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+compiling rb_monitor.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from rb_monitor.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from rb_monitor.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+rb_monitor.c: In function 'rb_monitor_run_bang':
+rb_monitor.c:509:29: warning: implicit declaration of function 'rb_thread_call_without_gvl'; did you mean 'rb_thread_wait_for'? [-Wimplicit-function-declaration]
+         waiting_succeeded = rb_thread_call_without_gvl(wait_for_changes, monitor->process_event, stop_monitoring, monitor);
+                             ^~~~~~~~~~~~~~~~~~~~~~~~~~
+                             rb_thread_wait_for
+compiling utils.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from utils.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from utils.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+compiling wdm.c
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from wdm.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:631:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_secure_update(VALUE));
+ ^~~~~~~~~
+In file included from C:/Ruby24-x64/include/ruby-2.4.0/ruby/ruby.h:2012,
+                 from C:/Ruby24-x64/include/ruby-2.4.0/ruby.h:33,
+                 from wdm.h:22,
+                 from wdm.c:1:
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:257:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_error_untrusted(VALUE));
+ ^~~~~~~~~
+C:/Ruby24-x64/include/ruby-2.4.0/ruby/intern.h:259:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+ CONSTFUNC(void rb_check_trusted(VALUE));
+ ^~~~~~~~~
+linking shared-object wdm_ext.so
+
+current directory: c:/notWork/github.io/shurupyan.github.io/vendor/bundle/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 wdm_ext.so ./.gem.20180928-18724-wjw01j
