@@ -3,7 +3,7 @@ layout: post
 author: shurup
 title:  "CycleArmenia 2018"
 ---
-![Картинка для привлечения внимания](2018-09-28-CycleArmenia_files/title_photo.jpeg "Можно задать title"){:width="800px"}
+![Группа на фоне Арарата](/assets/img/2018-09-28-CycleArmenia_files/title_photo.jpeg "Группа на фоне Арарата"){:width="800px"}
 <iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=ckmaigvstbuekjuy" scrolling="no" marginheight="0" marginwidth="0" width="50%" height="400" frameborder="0"></iframe>
 
 
