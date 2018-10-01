@@ -2,8 +2,8 @@
 layout: post
 author: shurup
 title:  "CycleArmenia 2018"
-categories: [blog, travel, armenia]
-tags: [hot, summer]
+categories: [blog, cycling_trip]
+tags: [hot, summer, Armenia]
 ---
 ![Группа на фоне Арарата](/assets/img/2018-09-28-CycleArmenia_files/title_photo.jpeg "Группа на фоне Арарата"){:width="1100px"}
 
