@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 collections:
   authors:
     output: true
@@ -18,6 +17,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-=======
+	  
 theme: jekyll-theme-minimal
->>>>>>> e570c14780a9224ab3144203df7f2525ac25f6a1
+
