@@ -1,3 +1,25 @@
 ---
 ---
 @import "jekyll-theme-minimal";
+.header {
+  width:600px;
+  height:120px;
+  border:1px solid black;
+}
+
+.sidebar {
+  width:200px;
+  height:300px;
+  border:1px solid black;
+  float:left;
+}
+
+.content {
+  width:1100px;
+}
+
+.footer {
+  width:600px;
+  height:130px;
+  border:1px solid black;
+}
