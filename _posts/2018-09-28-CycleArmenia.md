@@ -374,12 +374,12 @@ tags: [hot, summer, Armenia]
 
 А мы, пока их ждали, устроили фотосессию "Я и горячий ключ". На фото видно характерную форму источника. Некоторым участникам она напомнила сердце, другим - другую часть тела)))
 
-![](/assets/img/2018-09-28-CycleArmenia_files/20180915_071304.jpg){:width="540px"}
-![](/assets/img/2018-09-28-CycleArmenia_files/20180915_070637.jpg){:width="540px"}
-![](/assets/img/2018-09-28-CycleArmenia_files/DSC00485.jpg){:width="540px"}
-![](/assets/img/2018-09-28-CycleArmenia_files/DSC00490.jpg){:width="540px"}
-![](/assets/img/2018-09-28-CycleArmenia_files/DSC00489.jpg){:width="540px"}
-![](/assets/img/2018-09-28-CycleArmenia_files/DSC00482.jpg){:width="540px"}
+![](/assets/img/2018-09-28-CycleArmenia_files/20180915_071304.jpg){:width="548px"}
+![](/assets/img/2018-09-28-CycleArmenia_files/20180915_070637.jpg){:width="548px"}
+![](/assets/img/2018-09-28-CycleArmenia_files/DSC00485.jpg){:width="548px"}
+![](/assets/img/2018-09-28-CycleArmenia_files/DSC00490.jpg){:width="548px"}
+![](/assets/img/2018-09-28-CycleArmenia_files/DSC00489.jpg){:width="548px"}
+![](/assets/img/2018-09-28-CycleArmenia_files/DSC00482.jpg){:width="548px"}
 
 
 Выехали в 08:15.
