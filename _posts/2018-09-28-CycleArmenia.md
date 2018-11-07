@@ -368,7 +368,7 @@ tags: [hot, summer, Armenia]
 
 ![](/assets/img/2018-09-28-CycleArmenia_files/DSC00477.jpg)
 
-Перед выездом Вова с Леной сгоняли набрали в бутылки нарзана.
+Перед выездом Вова с Ирой сгоняли набрали в бутылки нарзана.
 
 ![](/assets/img/2018-09-28-CycleArmenia_files/P1014910-1.jpg)
 
