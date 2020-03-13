@@ -5,7 +5,7 @@ title:  "Crimea Cycle 2019"
 categories: [blog, cycling_trip]
 tags: [spring, Crimea]
 ---
-![](/assets/img/2018-09-28-CycleArmenia_files/20190430_170732.jpg)
+![](\assets\img\2019-04-28-CrimeaCycleChildren_files\20190430_170732.jpg)
 
 ## Оглавление
 
