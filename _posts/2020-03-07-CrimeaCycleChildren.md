@@ -25,9 +25,10 @@ tags: [spring, Crimea]
 
 <div style="width:100%;height:480px;background-color:black;text-align:center;">
   <video style="height:100%;" controls>
-    <source src="https://lh3.googleusercontent.com/B0zdEcgs2MoF4NKK4UbAEmSR56m33OvL4Q_SD5Eu-ZgXUcGglER7Su3yqvo_8xxP1mg0myOdSWeLTiJ1VUo0i9LJEGcXVTg9bBYXR5c_HnARi0CDI66L0rqMyPmkLgXyg24j1KPQj2A=m18" type="video/mp4">
+    <source src="https://lh3.googleusercontent.com/wMySI-07qouhKDRCGen7oPRn_eRDeGCwspON6Wtvy7hACniFLsSv1MmfGewIwqcQJ0dxOabtvdwsKMIq3ojjc5MtdGAqqRUCz-DVowBd_rwf3qg3HSNupeEd9ic44IB9r58KNNJejyU=m37" type="video/mp4">
   </video>
 </div>
+
 
 07.03 - 09.03.2020 группа велотуристов из краснодарского турклуба Крокус в составе:
 - Саша - руковод + завснар + реммастер (я)
