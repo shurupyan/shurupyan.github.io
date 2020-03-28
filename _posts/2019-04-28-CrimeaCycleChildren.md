@@ -72,7 +72,7 @@ tags: [spring, Crimea]
     preload="auto"
     poster="/assets/img/2019-04-28-CrimeaCycleChildren_files/video_preview.jpg"
     data-setup='{}'>
-  <source src="https://media.githubusercontent.com/media/shurupyan/shurupyan.github.io/master/assets/img/2019-04-28-CrimeaCycleChildren_files/Crimea2019.mp4" type="video/mp4"></source>
+  <source src="raw/master/assets/img/2019-04-28-CrimeaCycleChildren_files/Crimea2019.mp4" type="video/mp4"></source>
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a
     web browser that
