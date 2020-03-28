@@ -65,13 +65,12 @@ tags: [spring, Crimea]
 
 Кто дочитал - молодец. В качестве бонуса - видео (саундтрек - группа Ляпис Трубецкой)
 
-<iframe width="1100" height="650" src="https://photos.app.goo.gl/Z7ZAUNEab5LBsWKH7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <video
     id="my-player"
     class="video-js"
     controls
     preload="auto"
-    poster="//vjs.zencdn.net/v/oceans.png"
+    poster="/assets/img/2019-04-28-CrimeaCycleChildren_files/video_preview.jpg"
     data-setup='{}'>
   <source src="https://media.githubusercontent.com/media/shurupyan/shurupyan.github.io/master/assets/img/2019-04-28-CrimeaCycleChildren_files/Crimea2019.mp4" type="video/mp4"></source>
   <p class="vjs-no-js">
