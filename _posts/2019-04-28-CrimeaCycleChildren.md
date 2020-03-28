@@ -66,3 +66,19 @@ tags: [spring, Crimea]
 Кто дочитал - молодец. В качестве бонуса - видео (саундтрек - группа Ляпис Трубецкой)
 
 <iframe width="1100" height="650" src="https://photos.app.goo.gl/Z7ZAUNEab5LBsWKH7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<video
+    id="my-player"
+    class="video-js"
+    controls
+    preload="auto"
+    poster="//vjs.zencdn.net/v/oceans.png"
+    data-setup='{}'>
+  <source src="https://photos.app.goo.gl/Z7ZAUNEab5LBsWKH7" type="video/mp4"></source>
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a
+    web browser that
+    <a href="https://videojs.com/html5-video-support/" target="_blank">
+      supports HTML5 video
+    </a>
+  </p>
+</video>
